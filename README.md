@@ -43,7 +43,7 @@
   alt="About"
 />
 
-
+<br><br>
 
 <img
   src="https://api.iconify.design/lucide:sprout.svg?color=%238CCF45&width=20&height=20"
@@ -90,6 +90,8 @@
 
 <br><br>
 
+</div>
+
 </td>
 
 
@@ -98,12 +100,15 @@
 <td width="73%" valign="top" bgcolor="#0D1117">
 
 <h2>
+
 <img
   src="https://api.iconify.design/lucide:leaf.svg?color=%238CCF45&width=25&height=25"
   width="25"
   alt="What I Do"
 />
+
  What I Do
+
 </h2>
 
 <table width="100%" cellpadding="16" cellspacing="0">
@@ -251,18 +256,20 @@
 
 <div align="center">
 
-<table cellpadding="10" cellspacing="8">
+<!-- ======================= ROW 1 =========================== -->
+
+<table width="100%" cellpadding="12" cellspacing="4">
 
 <tr>
 
 <!-- FIGMA -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/figma/F24E1E"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="Figma"
 />
 
@@ -275,13 +282,12 @@
 
 <!-- LOVABLE -->
 
-<!-- LOVABLE -->
-<td align="center" width="135" height="125">
+<td align="center" width="25%" height="115">
 
 <img
   src="./product-1773375142127.webp"
-  width="60"
-  height="60"
+  width="52"
+  height="52"
   alt="Lovable"
 />
 
@@ -291,14 +297,15 @@
 
 </td>
 
+
 <!-- REPLIT -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/replit/F26207"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="Replit"
 />
 
@@ -311,12 +318,12 @@
 
 <!-- TYPESCRIPT -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/typescript/3178C6"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="TypeScript"
 />
 
@@ -326,15 +333,21 @@
 
 </td>
 
+</tr>
+
+
+<!-- ======================= ROW 2 =========================== -->
+
+<tr>
 
 <!-- REACT -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/react/61DAFB"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="React"
 />
 
@@ -347,12 +360,12 @@
 
 <!-- CSS -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/css/1572B6"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="CSS"
 />
 
@@ -365,12 +378,12 @@
 
 <!-- JIRA -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/jira/0052CC"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="Jira"
 />
 
@@ -383,12 +396,12 @@
 
 <!-- GITHUB -->
 
-<td align="center" width="120">
+<td align="center" width="25%" height="115">
 
 <img
   src="https://cdn.simpleicons.org/github/FFFFFF"
-  width="42"
-  height="42"
+  width="48"
+  height="48"
   alt="GitHub"
 />
 
@@ -413,9 +426,8 @@
 
 <br>
 
-
 <!-- ========================================================= -->
-<!--                       FOCUS                                -->
+<!--                       FOCUS                               -->
 <!-- ========================================================= -->
 
 <div align="center">
