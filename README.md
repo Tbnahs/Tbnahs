@@ -275,12 +275,13 @@
 
 <!-- LOVABLE -->
 
-<td align="center">
+<!-- LOVABLE -->
+<td align="center" width="135" height="125">
 
 <img
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/lovable.svg"
-  width="40"
-  height="40"
+  src="./product-1773375142127.webp"
+  width="60"
+  height="60"
   alt="Lovable"
 />
 
