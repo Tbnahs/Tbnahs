@@ -4,14 +4,11 @@
 
 <a>
   <img
-    src="./75A3481C-8FE7-4B5C-9D0F-54788FFB683C.png"
+    src="./A0DBE634-FBC6-418E-9233-8D2D8867B316.jpeg"
     width="100%"
     alt="banner"
   />
 </a>
-
----
-
 <table>
 <tr>
 
