@@ -4,38 +4,11 @@
 
 <a>
   <img
-    src="./banner.jpg"
+    src="./75A3481C-8FE7-4B5C-9D0F-54788FFB683C.png"
     width="100%"
     alt="banner"
   />
 </a>
-
-<br><br>
-
-<!-- ✨ TYPING ANIMATION -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=2800&pause=900&color=8CCF45&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hannah+%F0%9F%91%8B;Business+Analyst;Traceability+%26+GS1;Product+%26+UX;Turning+requirements+into+meaningful+solutions."
-  alt="Typing Animation"
-/>
-
-<br><br>
-
-<a href="https://linkedin.com/in/hannah1111/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Tbnahs">
-  <img
-    src="https://img.shields.io/badge/GitHub-Tbnahs-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-
-</div>
 
 ---
 
