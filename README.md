@@ -1,12 +1,9 @@
 <div align="center">
 
-<a href="https://www.vietjetair.com/vi/news/cam-nang-du-lich-1640944806320/top-dia-diem-du-lich-new-zealand-cuc-ky-noi-tieng-1750404543336](https://pin.it/1MsgGU3JM)">
+<a href="https://tenor.com/iq2JjNPEV54.gif">
   <img
     src="./banner.jpg"
     width="100%"
-    alt="New Zealand Mountain"
-  />
-</a>
 
 <br>
 
