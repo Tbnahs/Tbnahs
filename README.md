@@ -2,7 +2,7 @@
 
 <!-- 🏔️ HERO BANNER -->
 
-<a href="https://www.vietjetair.com/vi/news/cam-nang-du-lich-1640944806320/top-dia-diem-du-lich-new-zealand-cuc-ky-noi-tieng-1750404543336">
+<a>
   <img
     src="./banner.jpg"
     width="100%"
