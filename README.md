@@ -254,22 +254,18 @@
 
 <br>
 
-<div align="center">
-
-<!-- ======================= ROW 1 =========================== -->
-
-<table width="100%" cellpadding="12" cellspacing="4">
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
 
 <tr>
 
 <!-- FIGMA -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/figma/F24E1E"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="Figma"
 />
 
@@ -282,12 +278,12 @@
 
 <!-- LOVABLE -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="./product-1773375142127.webp"
-  width="52"
-  height="52"
+  width="50"
+  height="50"
   alt="Lovable"
 />
 
@@ -300,12 +296,12 @@
 
 <!-- REPLIT -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/replit/F26207"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="Replit"
 />
 
@@ -318,12 +314,12 @@
 
 <!-- TYPESCRIPT -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/typescript/3178C6"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="TypeScript"
 />
 
@@ -333,21 +329,15 @@
 
 </td>
 
-</tr>
-
-
-<!-- ======================= ROW 2 =========================== -->
-
-<tr>
 
 <!-- REACT -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/react/61DAFB"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="React"
 />
 
@@ -360,12 +350,12 @@
 
 <!-- CSS -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/css/1572B6"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="CSS"
 />
 
@@ -378,12 +368,12 @@
 
 <!-- JIRA -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/jira/0052CC"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="Jira"
 />
 
@@ -396,12 +386,12 @@
 
 <!-- GITHUB -->
 
-<td align="center" width="25%" height="115">
+<td align="center" width="12.5%">
 
 <img
   src="https://cdn.simpleicons.org/github/FFFFFF"
-  width="48"
-  height="48"
+  width="46"
+  height="46"
   alt="GitHub"
 />
 
@@ -414,8 +404,6 @@
 </tr>
 
 </table>
-
-</div>
 
 </td>
 
