@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/YFolBZSo8UIAAAAd/123.gif" width="300">
+
+</div>
+
 # 👋 Hi, I'm **Hannah**
 
 ### 💼 Business Analyst
