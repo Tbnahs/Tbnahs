@@ -202,11 +202,20 @@ Tools & Technologies
 </td>
 
 <!-- LOVABLE -->
+<!-- LOVABLE -->
 <td align="center" width="12.5%">
-<img src="https://cdn.simpleicons.org/lovable/FF69B4" width="46" height="46" alt="Lovable"/>
+
+<img
+  src="./product-1773375142127.webp"
+  width="50"
+  height="50"
+  alt="Lovable"
+/>
+
 <br><br>
+
 <strong>Lovable</strong>
-</td>
+
 
 <!-- REPLIT -->
 <td align="center" width="12.5%">
