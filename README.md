@@ -201,16 +201,22 @@ Tools & Technologies
 <strong>Figma</strong>
 </td>
 
-<!-- LOVABLE -->
+
 <!-- LOVABLE -->
 <td align="center" width="12.5%">
 
 <img
   src="./product-1773375142127.webp"
-  width="50"
-  height="50"
+  width="36"
+  height="36"
   alt="Lovable"
 />
+
+<br><br>
+
+<strong>Lovable</strong>
+
+</td>
 
 <br><br>
 
