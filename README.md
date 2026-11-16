@@ -1,10 +1,11 @@
+```html
 <!-- ========================================================= -->
 <!--                       HANNAH README                        -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ======================= HERO ============================ -->
+<!-- HERO -->
 
 <img
   src="./A0DBE634-FBC6-418E-9233-8D2D8867B316.jpeg"
@@ -23,70 +24,45 @@
 
 <br>
 
-<!-- ========================================================= -->
-<!--                       ABOUT + WHAT I DO                    -->
-<!-- ========================================================= -->
+<!-- ABOUT + WHAT I DO -->
 
 <table width="100%" cellpadding="22" cellspacing="0" border="0">
-
 <tr>
-
-<!-- ======================= ABOUT =========================== -->
 
 <td width="27%" valign="top" bgcolor="#0D1117">
 
 <div align="center">
 
 <img
-  src="https://api.iconify.design/lucide:user-round.svg?color=%238CCF45&width=42&height=42"
+  src="https://api.iconify.design/lucide/user-round.svg?color=%238CCF45&width=42&height=42"
   width="42"
   alt="About"
 />
 
 <br><br>
 
-<img
-  src="https://api.iconify.design/lucide:sprout.svg?color=%238CCF45&width=20&height=20"
-  width="20"
-  alt="Traceability"
-/>
- **Traceability**
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%238CCF45&width=20&height=20" width="20" alt="Traceability"/>
+<strong>Traceability</strong>
 
 <br>
 
-<img
-  src="https://api.iconify.design/lucide:scan-barcode.svg?color=%238CCF45&width=20&height=20"
-  width="20"
-  alt="GS1"
-/>
- **GS1 Standards**
+<img src="https://api.iconify.design/lucide/scan-barcode.svg?color=%238CCF45&width=20&height=20" width="20" alt="GS1"/>
+<strong>GS1 Standards</strong>
 
 <br>
 
-<img
-  src="https://api.iconify.design/lucide:palette.svg?color=%238CCF45&width=20&height=20"
-  width="20"
-  alt="Product"
-/>
- **Product & UX**
+<img src="https://api.iconify.design/lucide/palette.svg?color=%238CCF45&width=20&height=20" width="20" alt="Product"/>
+<strong>Product & UX</strong>
 
 <br>
 
-<img
-  src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238CCF45&width=20&height=20"
-  width="20"
-  alt="Business Analysis"
-/>
- **Business Analysis**
+<img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%238CCF45&width=20&height=20" width="20" alt="Business Analysis"/>
+<strong>Business Analysis</strong>
 
 <br>
 
-<img
-  src="https://api.iconify.design/lucide:monitor-smartphone.svg?color=%238CCF45&width=20&height=20"
-  width="20"
-  alt="Digital"
-/>
- **Digital Solutions**
+<img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%238CCF45&width=20&height=20" width="20" alt="Digital"/>
+<strong>Digital Solutions</strong>
 
 <br><br>
 
@@ -94,38 +70,26 @@
 
 </td>
 
-
-<!-- ====================== WHAT I DO ======================== -->
-
 <td width="73%" valign="top" bgcolor="#0D1117">
 
 <h2>
-
 <img
-  src="https://api.iconify.design/lucide:leaf.svg?color=%238CCF45&width=25&height=25"
+  src="https://api.iconify.design/lucide/leaf.svg?color=%238CCF45&width=25&height=25"
   width="25"
   alt="What I Do"
 />
-
- What I Do
-
+What I Do
 </h2>
 
 <table width="100%" cellpadding="16" cellspacing="0">
-
 <tr>
 
 <!-- BUSINESS ANALYSIS -->
 
 <td width="25%" valign="top">
-
 <div align="center">
 
-<img
-  src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238CCF45&width=38&height=38"
-  width="38"
-  alt="Business Analysis"
-/>
+<img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%238CCF45&width=38&height=38" width="38" alt="Business Analysis"/>
 
 ### Business Analysis
 
@@ -140,18 +104,12 @@
 
 </td>
 
-
 <!-- TRACEABILITY -->
 
 <td width="25%" valign="top">
-
 <div align="center">
 
-<img
-  src="https://api.iconify.design/lucide:barcode.svg?color=%238CCF45&width=38&height=38"
-  width="38"
-  alt="Traceability"
-/>
+<img src="https://api.iconify.design/lucide/barcode.svg?color=%238CCF45&width=38&height=38" width="38" alt="Traceability"/>
 
 ### Traceability & GS1
 
@@ -166,18 +124,12 @@
 
 </td>
 
-
 <!-- PRODUCT UX -->
 
 <td width="25%" valign="top">
-
 <div align="center">
 
-<img
-  src="https://api.iconify.design/lucide:pen-tool.svg?color=%238CCF45&width=38&height=38"
-  width="38"
-  alt="Product UX"
-/>
+<img src="https://api.iconify.design/lucide/pen-tool.svg?color=%238CCF45&width=38&height=38" width="38" alt="Product UX"/>
 
 ### Product & UX
 
@@ -192,18 +144,12 @@
 
 </td>
 
-
 <!-- COLLABORATION -->
 
 <td width="25%" valign="top">
-
 <div align="center">
 
-<img
-  src="https://api.iconify.design/lucide:users-round.svg?color=%238CCF45&width=38&height=38"
-  width="38"
-  alt="Collaboration"
-/>
+<img src="https://api.iconify.design/lucide/users-round.svg?color=%238CCF45&width=38&height=38" width="38" alt="Collaboration"/>
 
 ### Collaboration
 
@@ -218,247 +164,139 @@
 </td>
 
 </tr>
-
 </table>
 
 </td>
-
 </tr>
-
 </table>
-
 
 <br>
 
-<!-- ========================================================= -->
-<!--                    TOOLS & TECHNOLOGIES                   -->
-<!-- ========================================================= -->
+<!-- TOOLS & TECHNOLOGIES -->
 
 <table width="100%" cellpadding="18" cellspacing="0" border="0">
-
 <tr>
-
 <td bgcolor="#0D1117">
 
 <h2 align="left">
 
 <img
-  src="https://api.iconify.design/lucide:code-2.svg?color=%238CCF45&width=25&height=25"
+  src="https://api.iconify.design/lucide/code-2.svg?color=%238CCF45&width=25&height=25"
   width="25"
   alt="Tools"
 />
 
- Tools & Technologies
+Tools & Technologies
 
 </h2>
 
 <br>
 
 <table width="100%" cellpadding="10" cellspacing="0" border="0">
-
 <tr>
 
 <!-- FIGMA -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/figma/F24E1E"
-  width="46"
-  height="46"
-  alt="Figma"
-/>
-
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="46" height="46" alt="Figma"/>
 <br><br>
-
 <strong>Figma</strong>
-
 </td>
-
 
 <!-- LOVABLE -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="./product-1773375142127.webp"
-  width="50"
-  height="50"
-  alt="Lovable"
-/>
-
+<img src="https://cdn.simpleicons.org/lovable/FF69B4" width="46" height="46" alt="Lovable"/>
 <br><br>
-
 <strong>Lovable</strong>
-
 </td>
-
 
 <!-- REPLIT -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/replit/F26207"
-  width="46"
-  height="46"
-  alt="Replit"
-/>
-
+<img src="https://cdn.simpleicons.org/replit/F26207" width="46" height="46" alt="Replit"/>
 <br><br>
-
 <strong>Replit</strong>
-
 </td>
-
 
 <!-- TYPESCRIPT -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/typescript/3178C6"
-  width="46"
-  height="46"
-  alt="TypeScript"
-/>
-
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="46" height="46" alt="TypeScript"/>
 <br><br>
-
 <strong>TypeScript</strong>
-
 </td>
-
 
 <!-- REACT -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/react/61DAFB"
-  width="46"
-  height="46"
-  alt="React"
-/>
-
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="46" height="46" alt="React"/>
 <br><br>
-
 <strong>React</strong>
-
 </td>
-
 
 <!-- CSS -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/css/1572B6"
-  width="46"
-  height="46"
-  alt="CSS"
-/>
-
+<img src="https://cdn.simpleicons.org/css/1572B6" width="46" height="46" alt="CSS"/>
 <br><br>
-
 <strong>CSS</strong>
-
 </td>
-
 
 <!-- JIRA -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/jira/0052CC"
-  width="46"
-  height="46"
-  alt="Jira"
-/>
-
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="46" height="46" alt="Jira"/>
 <br><br>
-
 <strong>Jira</strong>
-
 </td>
-
 
 <!-- GITHUB -->
-
 <td align="center" width="12.5%">
-
-<img
-  src="https://cdn.simpleicons.org/github/FFFFFF"
-  width="46"
-  height="46"
-  alt="GitHub"
-/>
-
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" height="46" alt="GitHub"/>
 <br><br>
-
 <strong>GitHub</strong>
-
 </td>
 
 </tr>
-
 </table>
 
 </td>
-
 </tr>
-
 </table>
-
 
 <br>
 
-<!-- ========================================================= -->
-<!--                       FOCUS                               -->
-<!-- ========================================================= -->
+<!-- AREAS OF FOCUS -->
 
 <div align="center">
 
 <h2>
-
 <img
-  src="https://api.iconify.design/lucide:target.svg?color=%238CCF45&width=25&height=25"
+  src="https://api.iconify.design/lucide/target.svg?color=%238CCF45&width=25&height=25"
   width="25"
   alt="Focus"
 />
-
- Areas of Focus
-
+Areas of Focus
 </h2>
 
 <br>
 
-<img src="https://img.shields.io/badge/Traceability-8CCF45?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Traceability-8CCF45?style=for-the-badge&labelColor=0D1117" alt="Traceability"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GS1-8CCF45?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GS1-8CCF45?style=for-the-badge&labelColor=0D1117" alt="GS1"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Product-4C9AFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Product-4C9AFF?style=for-the-badge&labelColor=0D1117" alt="Product"/>
 &nbsp;
-<img src="https://img.shields.io/badge/UX%2FUI-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/UX%2FUI-A855F7?style=for-the-badge&labelColor=0D1117" alt="UX UI"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Digital_Transformation-00A99D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Digital_Transformation-00A99D?style=for-the-badge&labelColor=0D1117" alt="Digital Transformation"/>
 
 </div>
-
 
 <br>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       PHILOSOPHY                          -->
-<!-- ========================================================= -->
+<!-- PHILOSOPHY -->
 
 <div align="center">
 
 <img
-  src="https://api.iconify.design/lucide:sprout.svg?color=%238CCF45&width=30&height=30"
+  src="https://api.iconify.design/lucide/sprout.svg?color=%238CCF45&width=30&height=30"
   width="30"
   alt="Philosophy"
 />
@@ -472,13 +310,9 @@
 
 </div>
 
-
 <br>
 
-
-<!-- ========================================================= -->
-<!--                       CONNECT                             -->
-<!-- ========================================================= -->
+<!-- CONNECT -->
 
 <div align="center">
 
@@ -504,13 +338,9 @@
 
 </div>
 
-
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                       FOOTER                              -->
-<!-- ========================================================= -->
+<!-- FOOTER -->
 
 <div align="center">
 
@@ -521,3 +351,4 @@
 />
 
 </div>
+```
